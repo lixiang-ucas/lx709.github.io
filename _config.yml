@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiang Li / Site Title"
+title                    : "Xiang Li"
 title_separator          : "-"
 name                     : &name "Xiang Li"
 description              : &description "personal description"
