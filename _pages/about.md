@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lx709.github.io/images/lx.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
+  <img src="https://lx709.github.io/images/lx.jpg?raw=true" alt="Photo" style="width: 100px;"/> 
 </p>
 
 I am currently a Postdoc Associate at MMVC Lab, New York University Abu Dhabi. I received my Bachelor’s degree in remote sensing science and technology from Wuhan University, Wuhan, China in 2014 and the Ph.D. degree in Cartography and GIS from the Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China in 2019. 
