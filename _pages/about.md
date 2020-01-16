@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me ([Curriculum Vitae](https://lijian.ac.cn/files/cv/xiang.pdf))"
+title: "About me ([Curriculum Vitae](https://xiangli.ac.cn/files/cv/xiang.pdf))"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,12 +17,12 @@ My research interests include deep learning, computer vision, and remote sensing
 Honors and Awards
 ======
 
-  \item \textbf{2018, National Scholarship, University of Chinese Academy of Sciences}
-  \item \textbf{2018, Excellent research paper award, RADI}
-  \item \textbf{2017, China Scholarship Council scholarship}
-  \item 2016, Presidential Foundation of RADI
-  \item 2012, Seagate Scholarship, Wuhan University
-  \item \textbf{2011, National Scholarship, Wuhan University}
+* 2018, National Scholarship, University of Chinese Academy of Sciences
+* 2018, Excellent research paper award, RADI
+* 2017, China Scholarship Council scholarship
+* 2016, Presidential Foundation of RADI
+* 2012, Seagate Scholarship, Wuhan University
+* 2011, National Scholarship, Wuhan University
 
 <!---Activity and Service--->
 <!---Experience--->
