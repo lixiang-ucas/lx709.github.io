@@ -11,18 +11,18 @@ I am currently a Postdoc Associate at MMVC Lab, New York University Abu Dhabi. I
 
 
 # Research
-My research interests include deep learning, computer vision, and remote sensing image recognition.
+My research interests lie in 3D computer vision and pattern recognition, deep learning, remote sensing image recognition and smart city applications.
 
 
 Honors and Awards
 ======
 
-* 2018, National Scholarship, University of Chinese Academy of Sciences
-* 2018, Excellent research paper award, RADI
-* 2017, China Scholarship Council scholarship
-* 2016, Presidential Foundation of RADI
-* 2012, Seagate Scholarship, Wuhan University
-* 2011, National Scholarship, Wuhan University
+* National Scholarship, University of Chinese Academy of Sciences, 2018
+* Excellent research paper award, RADI, 2018
+* China Scholarship Council scholarship, 2017
+* Presidential Foundation of RADI, 2017
+* Seagate Scholarship, Wuhan University, 2012
+* National Scholarship, Wuhan University, 2011
 
 <!---Activity and Service--->
 <!---Experience--->
