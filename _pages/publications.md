@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+[\* denotes corresponding author]
+
 ---
 ## 2019
 * <b>Density-Aware Convolutional Networks with Context Encoding for Airborne LiDAR Point Cloud Classification</b>. <br>
@@ -17,7 +19,7 @@ author_profile: true
 [[Code]](https://https://github.com/lixiang-ucas)
 
 * <b>Directionally Constrained Fully Convolutional Neural Network For Airborne Lidar Point Cloud Classification</b>. <br>
-Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li</b>, Tianhe Chi. <i>arxiv</i>.<br>
+Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li*</b>, Tianhe Chi. <i>arxiv</i>.<br>
 [[PDF]](https://arxiv.org/abs/1908.06673)
 [[Code]](https://https://github.com/lixiang-ucas)
 
@@ -37,18 +39,13 @@ Yuan Hu, <b>Xiang Li</b>, Nan Zhou, Lina Yang, Ling Peng, Sha Xiao. <i>IEEE Geos
 [[PDF]](https://arxiv.org/abs/1908.06673)
 [[Code]](https://https://github.com/lixiang-ucas)
 
-* <b>* <b>A Sample Update-Based Convolutional Neural Network Framework for Object Detection in Large-Area Remote Sensing Images</b>. <br>
-Yuan Hu, <b>Xiang Li</b>, Nan Zhou, Lina Yang, Ling Peng, Sha Xiao. <i>v, 2019</i>.<br>
-[[PDF]](https://arxiv.org/abs/1908.06673)
-[[Code]](https://https://github.com/lixiang-ucas)
-
 * <b>Arbicon-Net: Arbitrary Continuous Geometric Transformation Networks for Image Registration</b>. <br>
 Jianchun Chen, Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>Advances in Neural Information Processing Systems, NIPS 2019</i>.<br>
 [[PDF]](https://arxiv.org/abs/1908.06673)
 [[Code]](https://https://github.com/lixiang-ucas)
 
 * <b>Dynamic Feature Fusion for Semantic Edge Detection</b>. <br>
-Jiashi Feng Yuan Hu, Yunpeng Chen, Xiang Li. <i>arxiv</i>.<br>
+Jiashi Feng Yuan Hu, Yunpeng Chen, Xiang Li. <i>IJCA 2018</i>.<br>
 [[PDF]](https://arxiv.org/abs/1902.09104)
 [[Code]](https://https://github.com/lixiang-ucas)
 
@@ -111,4 +108,3 @@ Haifeng Tian, Wang Li, Mingquan Wu, Ni Huang, Guodong Li, <b>Xiang Li</b>, Zheng
 v. <i>测绘通报, 2016</i>.<br>
 [[PDF]](https://arxiv.org/abs/1910.05909)
 
-[\* denotes equal contribution]
