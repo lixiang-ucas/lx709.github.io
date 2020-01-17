@@ -18,7 +18,17 @@ I am currently a Postdoc Associate at MMVC Lab, New York University Abu Dhabi. I
 # Research
 My research interests lie in 3D computer vision and pattern recognition, deep learning, remote sensing image recognition and smart city applications.
 
+Education
+======
+* B.S., Wuhan University, 2014
+* Ph.D, Inistitute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, 2019
 
+Work experience
+======
+* Fall 2019: Postdoc Associate
+  * New York University, Abu Dhabi
+  * Cooperator: Yi Fang, Lingjing Wang
+* Reviewer for ISPRS Journal of Photogrammetry and Remote Sensing, IEEE Transactions on Geoscience and Re-mote Sensing, Computational Intelligence and Neuroscience, Pattern Recognition Letters, IEEE ACCESS, 
 Honors and Awards
 ======
 
