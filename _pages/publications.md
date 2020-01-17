@@ -97,6 +97,11 @@ Haifeng Tian, Wang Li, Mingquan Wu, Ni Huang, Guodong Li, <b>Xiang Li</b>, Zheng
 <b>李祥</b> 彭玲, 池天河, 李浩川, 徐逸之. <i>测绘通报, 2016</i>.<br>
 
 ---
+## 2015
+* <b>A Novel Fuzzy Chinese Address Matching Engine Based on Full-text Search Technology</b>. <br>
+Xiaojing Yao, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>The 5th International Conference on Computer Engineering and Networks, 2015</i>.<br>
+
+---
 ## 专著
 《智慧城市脉动分析理论与实践》第五章
 
