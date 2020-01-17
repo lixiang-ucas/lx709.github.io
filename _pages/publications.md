@@ -28,22 +28,22 @@ Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li</b>, Tianhe Chi. <i>arxiv</i>.<b
 [[Code]](https://https://github.com/lixiang-ucas)
 
 * <b>A novel spatiotemporal convolutional long short-term neural network for air pollution prediction</b>. <br>
-Congcong Wen, Shufu Liu, Xiaojing Yao, Ling Peng, Xiang Li, Yuan Hu, Tianhe Chi. <i>Science of The Total Environment, 2019</i>.<br>
+Congcong Wen, Shufu Liu, Xiaojing Yao, Ling Peng, <b>Xiang Li</b>, Yuan Hu, Tianhe Chi. <i>Science of The Total Environment, 2019</i>.<br>
 [[PDF]](https://arxiv.org/abs/1908.06673)
 [[Code]](https://https://github.com/lixiang-ucas)
 
 * <b>A Sample Update-Based Convolutional Neural Network Framework for Object Detection in Large-Area Remote Sensing Images</b>. <br>
-Yuan Hu, Xiang Li, Nan Zhou, Lina Yang, Ling Peng, Sha Xiao. <i>IEEE Geoscience and Remote Sensing Letters , 2019</i>.<br>
+Yuan Hu, <b>Xiang Li</b>, Nan Zhou, Lina Yang, Ling Peng, Sha Xiao. <i>IEEE Geoscience and Remote Sensing Letters , 2019</i>.<br>
 [[PDF]](https://arxiv.org/abs/1908.06673)
 [[Code]](https://https://github.com/lixiang-ucas)
 
 * <b>* <b>A Sample Update-Based Convolutional Neural Network Framework for Object Detection in Large-Area Remote Sensing Images</b>. <br>
-Yuan Hu, Xiang Li, Nan Zhou, Lina Yang, Ling Peng, Sha Xiao. <i>v, 2019</i>.<br>
+Yuan Hu, <b>Xiang Li</b>, Nan Zhou, Lina Yang, Ling Peng, Sha Xiao. <i>v, 2019</i>.<br>
 [[PDF]](https://arxiv.org/abs/1908.06673)
 [[Code]](https://https://github.com/lixiang-ucas)
 
 * <b>Arbicon-Net: Arbitrary Continuous Geometric Transformation Networks for Image Registration</b>. <br>
-Jianchun Chen, Lingjing Wang, Xiang Li, Yi Fang. <i>Advances in Neural Information Processing Systems, NIPS 2019</i>.<br>
+Jianchun Chen, Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>Advances in Neural Information Processing Systems, NIPS 2019</i>.<br>
 [[PDF]](https://arxiv.org/abs/1908.06673)
 [[Code]](https://https://github.com/lixiang-ucas)
 
@@ -60,50 +60,50 @@ Yi Fang Lingjing Wang, Jianchun Chen, Xiang Li. <i>arxiv</i>.<br>
 ---
 ## 2018
 * <b>Building-A-Nets: Robust Building Extraction From High-Resolution Remote Sensing Images With Adversarial Networks</b>. <br>
-Xiang Li, Xiaojing Yao, Yi Fang. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2018</i>.<br>
+<b>Xiang Li</b>, Xiaojing Yao, Yi Fang. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2018</i>.<br>
 [[PDF]](https://arxiv.org/abs/1910.05909)
 [[Code]](https://https://github.com/lixiang-ucas)
 
 * <b>基于栈式自编码的上海地铁短时流量预测</b>. <br>
-徐逸之， 彭玲， 林晖， 李祥. <i>计算机工程与科学, 2018</i>.<br>
+徐逸之, 彭玲, 林晖, 李祥. <i>计算机工程与科学, 2018</i>.<br>
 [[PDF]](https://arxiv.org/abs/1910.05909)
 [[Code]](https://https://github.com/lixiang-ucas)
 
-* <b>A novel evolution tree for analyzing the global energy consumption structure</b>. <br>Yuan Hu, Ling Peng, Xiang Li, Xiaojing Yao, Hui Lin, Tianhe Chi. <i>Energy, 2018</i>.<br>
+* <b>A novel evolution tree for analyzing the global energy consumption structure</b>. <br>Yuan Hu, Ling Peng, <b>Xiang Li</b>, Xiaojing Yao, Hui Lin, Tianhe Chi. <i>Energy, 2018</i>.<br>
 [[PDF]](https://arxiv.org/abs/1910.05909)
 [[Code]](https://https://github.com/lixiang-ucas)
 
 * <b>基于全卷积网络的高分辨遥感影像目标检测</b>. <br>
-徐逸之， 姚晓婧， 李祥， 周楠， 胡媛. <i>测绘通报, 2018</i>.<br>
+徐逸之, 姚晓婧, <b>李祥</b>, 周楠, 胡媛. <i>测绘通报, 2018</i>.<br>
 [[PDF]](https://arxiv.org/abs/1910.05909)
 [[Code]](https://https://github.com/lixiang-ucas)
 
 ---
 ## 2017
 * <b>Long short-term memory neural network for air pollutant concentration predictions: Method development and evaluation</b>. <br>
-Xiang Li, Ling Peng, Xiaojing Yao, Shaolong Cui, Yuan Hu, Chengzeng You, Tianhe Chi. <i>Environmental pollution, 2017</i>.<br>
+<b>Xiang Li</b>, Ling Peng, Xiaojing Yao, Shaolong Cui, Yuan Hu, Chengzeng You, Tianhe Chi. <i>Environmental pollution, 2017</i>.<br>
 [[PDF]](https://arxiv.org/abs/1910.05909)
 [[Code]](https://https://github.com/lixiang-ucas)
 
 * <b>Dynamic monitoring of the largest freshwater lake in China using a new water index derived from high spatiotemporal resolution Sentinel-1A data</b>. <br>
-Haifeng Tian, Wang Li, Mingquan Wu, Ni Huang, Guodong Li, Xiang Li, Zheng Niu. <i>v, 2017</i>.<br>
+Haifeng Tian, Wang Li, Mingquan Wu, Ni Huang, Guodong Li, <b>Xiang Li</b>, Zheng Niu. <i>v, 2017</i>.<br>
 [[PDF]](https://arxiv.org/abs/1910.05909)
 [[Code]](https://https://github.com/lixiang-ucas)
 
 ---
 ## 2016
 * <b>Deep learning architecture for air quality predictions</b>. <br>
-Xiang Li, Ling Peng, Yuan Hu, Jing Shao, Tianhe Chi. <i>Environmental Science and Pollution Research, 2016</i>.<br>
+<b>Xiang Li</b>, Ling Peng, Yuan Hu, Jing Shao, Tianhe Chi. <i>Environmental Science and Pollution Research, 2016</i>.<br>
 [[PDF]](https://arxiv.org/abs/1910.05909)
 [[Code]](https://https://github.com/lixiang-ucas)
 
 * <b>基于时空大数据的城市脉动分析研究</b>. <br>
-彭玲， 李祥， 徐逸之， 陈文建， 胡媛， 李高盛， 尤承增. <i>地理信息世界, 2016</i>.<br>
+彭玲, <b>李祥</b>, 徐逸之, 陈文建, 胡媛, 李高盛, 尤承增. <i>地理信息世界, 2016</i>.<br>
 [[PDF]](https://arxiv.org/abs/1910.05909)
 [[Code]](https://https://github.com/lixiang-ucas)
 
 * <b>基于小波分解和 ARMA 模型的空气污染预报研究</b>. <br>
-李祥， 彭玲， 邵静， 崔绍龙， 田海峰. <i>环境工程, 2016</i>.<br>
+<b>李祥</b>, 彭玲, 邵静, 崔绍龙, 田海峰. <i>环境工程, 2016</i>.<br>
 [[PDF]](https://arxiv.org/abs/1910.05909)
 [[Code]](https://https://github.com/lixiang-ucas)
 
