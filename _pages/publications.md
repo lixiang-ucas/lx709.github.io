@@ -13,6 +13,9 @@ author_profile: true
 [[PDF]](https://arxiv.org/abs/1910.05909)
 [[Code]](https://https://github.com/lixiang-ucas)
 
+* <b>Airborne LiDAR Point Cloud Classification with Graph Attention Convolution Neural Network</b>. <br>
+Congcong Wen, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>arxiv</i>.<br>
+
 * <b>PC-Net: Unsupervised Point Correspondence Learning with Neural Networks</b>. <br>
 <b>Xiang Li</b>, Lingjing Wang, Yi Fang. <i>2019 International Conference on 3D Vision (3DV)</i>.<br>
 [[PDF]](https://www.ijcai.org/proceedings/2019/0399.pdf)
@@ -45,11 +48,11 @@ Jianchun Chen, Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>Advances in Neural In
 [[Code]](https://https://github.com/lixiang-ucas)
 
 * <b>Dynamic Feature Fusion for Semantic Edge Detection</b>. <br>
-Jiashi Feng Yuan Hu, Yunpeng Chen, Xiang Li. <i>IJCA 2018</i>.<br>
+Yuan Hu, Yunpeng Chen, <b>Xiang Li</b>, Jiashi Feng. <i>IJCA 2018</i>.<br>
 [[PDF]](https://arxiv.org/abs/1902.09104)
 
 * <b>Non-Rigid Point Set Registration Networks</b>. <br>
-Yi Fang Lingjing Wang, Jianchun Chen, Xiang Li. <i>arxiv</i>.<br>
+Lingjing Wang, Jianchun Chen, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 [[PDF]](https://arxiv.org/abs/1904.01428)
 
 ---
@@ -60,7 +63,7 @@ Yi Fang Lingjing Wang, Jianchun Chen, Xiang Li. <i>arxiv</i>.<br>
 [[Code]](https://ieeexplore.ieee.org/document/8453267)
 
 * <b>基于栈式自编码的上海地铁短时流量预测</b>. <br>
-徐逸之, 彭玲, 林晖, 李祥. <i>计算机工程与科学, 2018</i>.<br>
+徐逸之, 彭玲, 林晖, <b>李祥</b>. <i>计算机工程与科学, 2018</i>.<br>
 
 * <b>A novel evolution tree for analyzing the global energy consumption structure</b>. <br>Yuan Hu, Ling Peng, <b>Xiang Li</b>, Xiaojing Yao, Hui Lin, Tianhe Chi. <i>Energy, 2018</i>.<br>
 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0360544218301117)
@@ -99,9 +102,9 @@ Haifeng Tian, Wang Li, Mingquan Wu, Ni Huang, Guodong Li, <b>Xiang Li</b>, Zheng
 
 ---
 ## 专利
-* 神经网络、遥感影像的建筑物提取方法、介质（CN201810373725.3，第1发明人，实质审查）；
-* 空气污染物浓度预报方法及系统（CN201610875403.X，第1发明人，已授权）；
-* 一种空气污染物浓度预测方法（CN201510767342.0，第2发明人，实质审查）；
+* 神经网络、遥感影像的建筑物提取方法、介质（CN201810373725.3，第1发明人，实质审查）
+* 空气污染物浓度预报方法及系统（CN201610875403.X，第1发明人，已授权）
+* 一种空气污染物浓度预测方法（CN201510767342.0，第2发明人，实质审查）
 * 基于样本更新的卷积神经网络目标检测框架(CN201811112898.6,第3发明人，实质审查)
-* 基于空间大数据进行知识挖掘的地图可视化系统及方法（CN201510776887.8，第4发明人，实质审查）；
-* 地铁短时流量预测方法及装置（CN201610830343.X，第5发明人，实质审查）。
+* 基于空间大数据进行知识挖掘的地图可视化系统及方法（CN201510776887.8，第4发明人，实质审查）
+* 地铁短时流量预测方法及装置（CN201610830343.X，第5发明人，实质审查）
