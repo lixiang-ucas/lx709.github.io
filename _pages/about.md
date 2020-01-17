@@ -28,7 +28,8 @@ Work experience
 * Fall 2019: Postdoc Associate
   * New York University, Abu Dhabi
   * Cooperator: Yi Fang, Lingjing Wang
-* Reviewer for ISPRS Journal of Photogrammetry and Remote Sensing, IEEE Transactions on Geoscience and Re-mote Sensing, Computational Intelligence and Neuroscience, Pattern Recognition Letters, IEEE ACCESS, 
+* Reviewer for ISPRS Journal of Photogrammetry and Remote Sensing, IEEE Transactions on Geoscience and Re-mote Sensing, Computational Intelligence and Neuroscience, Pattern Recognition Letters, IEEE ACCESS.
+
 Honors and Awards
 ======
 
