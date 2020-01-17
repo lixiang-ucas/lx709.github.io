@@ -7,16 +7,11 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[English CV [PDF]](https://xiangli.ac.cn/files/cv/xiang_en.pdf)
 
-Education
-======
-* B.S., Wuhan University, 2014
-* Ph.D, Inistitute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, 2019
+[Chinese CV [PDF]](https://xiangli.ac.cn/files/cv/xiang_cn.pdf)
 
-Work experience
-======
-* Fall 2019: Postdoc Associate
-  * New York University, Abu Dhabi
-  * Cooperator: Yi Fang, Lingjing Wang
-
+# Contact
+New York University, Abu Dhabi<br>
+A1 007, New York University, Abu Dhabi, UAE<br>
+Email: xl1845@nyu.edu
