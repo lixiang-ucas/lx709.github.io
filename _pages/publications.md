@@ -69,7 +69,7 @@ Lingjing Wang, Jianchun Chen, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0360544218301117)
 
 * <b>基于全卷积网络的高分辨遥感影像目标检测</b>. <br>
-徐逸之, 姚晓婧, <b>李祥</b>, 周楠, 胡媛. <i>测绘通报, 2018</i>.<br>
+徐逸之, 姚晓婧, <b>李祥*</b>, 周楠, 胡媛. <i>测绘通报, 2018</i>.<br>
 
 ---
 ## 2017
@@ -103,7 +103,7 @@ Xiaojing Yao, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>The 5th International C
 
 ---
 ## 专著
-《智慧城市脉动分析理论与实践》第五章
+《智慧城市脉动分析理论与实践》第四章
 
 ---
 ## 专利
