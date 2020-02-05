@@ -22,7 +22,7 @@ Congcong Wen, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>arxiv</i>.<br>
 
 
 * <b>Directionally Constrained Fully Convolutional Neural Network For Airborne Lidar Point Cloud Classification</b>. <br>
-Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li</b>, Tianhe Chi. (<b>corresponding author</b>) <i>arxiv</i>.<br> 
+Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li</b><i class="icon-weibo"></i>, Tianhe Chi. (<b>corresponding author</b>) <i>arxiv</i>.<br> 
 [[PDF]](https://arxiv.org/abs/1908.06673)
 [[Code]](https://https://github.com/lixiang-ucas)
 
