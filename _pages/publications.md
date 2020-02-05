@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[\* denotes corresponding author]
+[\* denotes equal contribution]
 
 ---
 ## 2019
@@ -17,12 +17,12 @@ author_profile: true
 Congcong Wen, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>arxiv</i>.<br>
 
 * <b>PC-Net: Unsupervised Point Correspondence Learning with Neural Networks</b>. <br>
-<b>Xiang Li</b>, Lingjing Wang, Yi Fang. <i>2019 International Conference on 3D Vision (3DV)</i>.<br>
+<b>Xiang Li*</b>, Lingjing Wang*, Yi Fang. <i>2019 International Conference on 3D Vision (3DV)</i>.<br>
 [[PDF]](https://www.ijcai.org/proceedings/2019/0399.pdf)
 
 
 * <b>Directionally Constrained Fully Convolutional Neural Network For Airborne Lidar Point Cloud Classification</b>. <br>
-Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li*</b>, Tianhe Chi. <i>arxiv</i>.<br>
+Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li*</b>, Tianhe Chi. <i>arxiv</i>.<br> (corresponding author)
 [[PDF]](https://arxiv.org/abs/1908.06673)
 [[Code]](https://https://github.com/lixiang-ucas)
 
@@ -69,7 +69,7 @@ Lingjing Wang, Jianchun Chen, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0360544218301117)
 
 * <b>基于全卷积网络的高分辨遥感影像目标检测</b>. <br>
-徐逸之, 姚晓婧, <b>李祥*</b>, 周楠, 胡媛. <i>测绘通报, 2018</i>.<br>
+徐逸之, 姚晓婧, <b>李祥</b>, 周楠, 胡媛. <i>测绘通报, 2018</i>.<br> (corresponding author)
 
 ---
 ## 2017
@@ -88,7 +88,7 @@ Haifeng Tian, Wang Li, Mingquan Wu, Ni Huang, Guodong Li, <b>Xiang Li</b>, Zheng
 [[PDF]](https://link.springer.com/article/10.1007/s11356-016-7812-9)
 
 * <b>基于时空大数据的城市脉动分析研究</b>. <br>
-彭玲, <b>李祥</b>, 徐逸之, 陈文建, 胡媛, 李高盛, 尤承增. <i>地理信息世界, 2016</i>.<br>
+彭玲, <b>李祥</b>, 徐逸之, 陈文建, 胡媛, 李高盛, 尤承增. <i>地理信息世界, 2016</i>.<br> (corresponding author)
 
 * <b>基于小波分解和 ARMA 模型的空气污染预报研究</b>. <br>
 <b>李祥</b>, 彭玲, 邵静, 崔绍龙, 田海峰. <i>环境工程, 2016</i>.<br>
