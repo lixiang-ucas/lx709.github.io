@@ -22,7 +22,7 @@ Congcong Wen, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>arxiv</i>.<br>
 
 
 * <b>Directionally Constrained Fully Convolutional Neural Network For Airborne Lidar Point Cloud Classification</b>. <br>
-Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li</b><i class="icon-weibo"></i>, Tianhe Chi. (<b>corresponding author</b>) <i>arxiv</i>.<br> 
+Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li</b><i class="icon-envelope-square"></i>, Tianhe Chi. (<b>corresponding author</b>) <i>arxiv</i>.<br> 
 [[PDF]](https://arxiv.org/abs/1908.06673)
 [[Code]](https://https://github.com/lixiang-ucas)
 
@@ -114,9 +114,3 @@ Xiaojing Yao, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>The 5th International C
 * 基于空间大数据进行知识挖掘的地图可视化系统及方法（CN201510776887.8，第4发明人，实质审查）
 * 地铁短时流量预测方法及装置（CN201610830343.X，第5发明人，实质审查）
 
-
-<head> 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
-</head> 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
