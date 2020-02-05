@@ -113,3 +113,10 @@ Xiaojing Yao, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>The 5th International C
 * 基于样本更新的卷积神经网络目标检测框架(CN201811112898.6,第3发明人，实质审查)
 * 基于空间大数据进行知识挖掘的地图可视化系统及方法（CN201510776887.8，第4发明人，实质审查）
 * 地铁短时流量预测方法及装置（CN201610830343.X，第5发明人，实质审查）
+
+
+<head> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
+</head> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
