@@ -45,10 +45,10 @@ Yuan Hu, <b>Xiang Li</b>, Nan Zhou, Lina Yang, Ling Peng, Sha Xiao. <i>IEEE Geos
 * <b>Arbicon-Net: Arbitrary Continuous Geometric Transformation Networks for Image Registration</b>. <br>
 Jianchun Chen, Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>Advances in Neural Information Processing Systems, NIPS 2019</i>.<br>
 [[PDF]](https://arxiv.org/abs/1908.06673)
-[[Code]](https://https://github.com/lixiang-ucas)
+[[Code]](https://github.com/nyummvc/Arbicon-Net)
 
 * <b>Dynamic Feature Fusion for Semantic Edge Detection</b>. <br>
-Yuan Hu, Yunpeng Chen, <b>Xiang Li</b>, Jiashi Feng. <i>IJCA 2018</i>.<br>
+Yuan Hu, Yunpeng Chen, <b>Xiang Li</b>, Jiashi Feng. <i>IJCAI 2018</i>.<br>
 [[PDF]](https://arxiv.org/abs/1902.09104)
 
 * <b>Non-Rigid Point Set Registration Networks</b>. <br>
