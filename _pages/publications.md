@@ -7,31 +7,34 @@ author_profile: true
 [\* denotes equal contribution]
 
 ---
-## 2019
+## 2020
+
+* <b>Few-shot Segmentation of Remote Sensing Images</b>. <br>
+<b>Xiang Li</b>, Yi Fang. <i>under review</i>.<br>
+
 * <b>Density-Aware Convolutional Networks with Context Encoding for Airborne LiDAR Point Cloud Classification</b>. <br>
 <b>Xiang Li</b>, Mingyang Wang, Congcong Wen, Lingjing Wang, Nan Zhou, Yi Fang. <i>arxiv</i>.<br>
 [[PDF]](https://arxiv.org/abs/1910.05909)
-[[Code]](https://https://github.com/lixiang-ucas)
 
 * <b>Airborne LiDAR Point Cloud Classification with Graph Attention Convolution Neural Network</b>. <br>
 Congcong Wen, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>arxiv</i>.<br>
 
 * <b>Topology Constrained Shape Correspondence</b>. <br>
-<b>Xiang Li</b>, Congcong Wen, Lingjing Wang, Yi Fang. <i>IEEE Transactions on Visulization and Computer Graphics, under review</i>.<br>
+<b>Xiang Li</b>, Congcong Wen, Lingjing Wang, Yi Fang. <i>under review</i>.<br>
 
 * <b>Arbitrary Continuous Geometric TransformationNetworks for Image Registration</b>. <br>
-Lingjing Wang, <b>Xiang Li</b>, Hao Huang, Jianchun Chen, Yi Fang. <i>IEEE Transactions on Image Processing, under review</i>.<br>
-
-* <b>PC-Net: Unsupervised Point Correspondence Learning with Neural Networks</b>. <br>
-<b>Xiang Li*</b>, Lingjing Wang*, Yi Fang. <i>2019 International Conference on 3D Vision (3DV)</i>.<br>
-[[PDF]](https://www.ijcai.org/proceedings/2019/0399.pdf)
-
+Lingjing Wang, <b>Xiang Li</b>, Hao Huang, Jianchun Chen, Yi Fang. <i>under review</i>.<br>
 
 * <b>Directionally Constrained Fully Convolutional Neural Network For Airborne Lidar Point Cloud Classification</b>. <br>
 Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li (corresponding author)</b><i class="icon-envelope-square"></i>, Tianhe Chi. <i>ISPRS Journal of Photogrammetry and Remote Sensing, 2020</i>.<br> 
 [[PDF]](https://arxiv.org/abs/1908.06673)
-[[Code]](https://https://github.com/lixiang-ucas)
+[[Code]](https://https://github.com/lx709/D-FCN)
 
+---
+## 2019
+* <b>PC-Net: Unsupervised Point Correspondence Learning with Neural Networks</b>. <br>
+<b>Xiang Li*</b>, Lingjing Wang*, Yi Fang. <i>2019 International Conference on 3D Vision (3DV)</i>.<br>
+[[PDF]](https://www.ijcai.org/proceedings/2019/0399.pdf)
 
 * <b>Cross-Safe: A computer vision-based approach to make all intersection-related pedestrian signals accessible for the visually impaired</b>. <br>
 <b>Xiang Li</b>, Hanzhang Cui, John-Ross Rizzo, Edward Wong, Yi Fang. <i>Science and Information Conference</i>.<br> (<b>Best student paper nomination</b>)
