@@ -37,7 +37,7 @@ Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li (corresponding author)</b><i cla
 [[PDF]](https://www.ijcai.org/proceedings/2019/0399.pdf)
 
 * <b>Cross-Safe: A computer vision-based approach to make all intersection-related pedestrian signals accessible for the visually impaired</b>. <br>
-<b>Xiang Li</b>, Hanzhang Cui, John-Ross Rizzo, Edward Wong, Yi Fang. <i>Science and Information Conference</i>.<br> (<b>Best student paper nomination</b>)
+<b>Xiang Li</b>, Hanzhang Cui, John-Ross Rizzo, Edward Wong, Yi Fang. <i>Computer Vision Conference 2019</i>.<br> (<b>Best student paper nomination</b>)
 [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-17798-0_13)
 
 
