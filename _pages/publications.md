@@ -16,6 +16,12 @@ author_profile: true
 * <b>Airborne LiDAR Point Cloud Classification with Graph Attention Convolution Neural Network</b>. <br>
 Congcong Wen, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>arxiv</i>.<br>
 
+* <b>Topology Constrained Shape Correspondence</b>. <br>
+<b>Xiang Li</b>, Congcong Wen, Lingjing Wang, Yi Fang. <i>IEEE Transactions on Visulization and Computer Graphics, under review</i>.<br>
+
+* <b>Arbitrary Continuous Geometric TransformationNetworks for Image Registration</b>. <br>
+Lingjing Wang, <b>Xiang Li</b>, Hao Huang, Jianchun Chen, Yi Fang. <i>IEEE Transactions on Image Processing, under review</i>.<br>
+
 * <b>PC-Net: Unsupervised Point Correspondence Learning with Neural Networks</b>. <br>
 <b>Xiang Li*</b>, Lingjing Wang*, Yi Fang. <i>2019 International Conference on 3D Vision (3DV)</i>.<br>
 [[PDF]](https://www.ijcai.org/proceedings/2019/0399.pdf)
