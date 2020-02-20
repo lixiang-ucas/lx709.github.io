@@ -86,7 +86,7 @@ author:
   bio              : "Postdoc Associate at NYU Abu Dhabi"
   location         : "Abu Dhabi, New York"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://publons.com/researcher/3175047/xiang-li/"
   googlescholar    : "https://scholar.google.com/citations?user=4Apl5FgAAAAJ&hl=zh-CN"
   email            : "lixiang709709@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Xiang_Li222" #example: "https://www.researchgate.net/profile/yourprofile"
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lixiang-ucas"
+  github           : "lx709"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/xiang-li-3317b082/"
   orcid            : "https://orcid.org/0000-0002-9946-7000"
   pinterest        :
   soundcloud       :
