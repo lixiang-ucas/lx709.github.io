@@ -27,7 +27,7 @@ Lingjing Wang, <b>Xiang Li</b>, Hao Huang, Jianchun Chen, Yi Fang. <i>under revi
 
 * <b>Directionally Constrained Fully Convolutional Neural Network For Airborne Lidar Point Cloud Classification</b>. <br>
 Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li (corresponding author)</b><i class="icon-envelope-square"></i>, Tianhe Chi. <i>ISPRS Journal of Photogrammetry and Remote Sensing, 2020</i>.<br> 
-[[PDF]](https://arxiv.org/abs/1908.06673)
+[[PDF]](https://authors.elsevier.com/a/1abO93I9x1cfvT)
 [[Code]](https://https://github.com/lx709/D-FCN)
 
 ---
