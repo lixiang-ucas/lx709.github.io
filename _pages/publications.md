@@ -9,6 +9,9 @@ author_profile: true
 ---
 ## 2020
 
+* <b>Few-shot Learning of Part-specific Probability Space for 3D Shape Segmentation</b>. <br>
+Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>CVPR 2020</i>.<br>
+
 * <b>Few-shot Segmentation of Remote Sensing Images</b>. <br>
 <b>Xiang Li</b>, Yi Fang. <i>under review</i>.<br>
 
