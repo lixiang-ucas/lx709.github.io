@@ -26,7 +26,7 @@ Congcong Wen, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>arxiv</i>.<br>
 <b>Xiang Li</b>, Congcong Wen, Lingjing Wang, Yi Fang. <i>under review</i>.<br>
 
 * <b>Arbitrary Continuous Geometric TransformationNetworks for Image Registration</b>. <br>
-Lingjing Wang, <b>Xiang Li</b>, Hao Huang, Jianchun Chen, Yi Fang. <i>under review</i>.<br>
+Lingjing Wang*, <b>Xiang Li*</b>, Hao Huang, Jianchun Chen, Yi Fang. <i>under review</i>.<br>
 
 * <b>Directionally Constrained Fully Convolutional Neural Network For Airborne Lidar Point Cloud Classification</b>. <br>
 Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li (corresponding author)</b><i class="icon-envelope-square"></i>, Tianhe Chi. <i>ISPRS Journal of Photogrammetry and Remote Sensing, 2020</i>.<br> 
@@ -120,9 +120,4 @@ Xiaojing Yao, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>The 5th International C
 ---
 ## 专利
 * 神经网络、遥感影像的建筑物提取方法、介质（CN201810373725.3，第1发明人，实质审查）
-* 空气污染物浓度预报方法及系统（CN201610875403.X，第1发明人，已授权）
-* 一种空气污染物浓度预测方法（CN201510767342.0，第2发明人，实质审查）
-* 基于样本更新的卷积神经网络目标检测框架(CN201811112898.6,第3发明人，实质审查)
-* 基于空间大数据进行知识挖掘的地图可视化系统及方法（CN201510776887.8，第4发明人，实质审查）
-* 地铁短时流量预测方法及装置（CN201610830343.X，第5发明人，实质审查）
-
+* 空气污染物
