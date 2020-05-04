@@ -23,7 +23,7 @@ Lingjing Wang*, <b>Xiang Li*</b>, Yi Fang. <i>CVPR 2020</i>.<br>
 Congcong Wen, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>arxiv</i>.<br>
 
 * <b>Topology Constrained Shape Correspondence</b>. <br>
-<b>Xiang Li</b>, Congcong Wen, Lingjing Wang, Yi Fang. <i>under review</i>.<br>
+<b>Xiang Li</b>, Congcong Wen, Lingjing Wang, Yi Fang. <i>IEEE Transactions on Visualization and Graphics, 2020</i>.<br>
 
 * <b>Arbitrary Continuous Geometric TransformationNetworks for Image Registration</b>. <br>
 Lingjing Wang*, <b>Xiang Li*</b>, Hao Huang, Jianchun Chen, Yi Fang. <i>under review</i>.<br>
