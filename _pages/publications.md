@@ -36,7 +36,7 @@ Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li (corresponding author)</b><i cla
 ---
 ## 2019
 * <b>PC-Net: Unsupervised Point Correspondence Learning with Neural Networks</b>. <br>
-<b>Xiang Li*</b>, Lingjing Wang*, Yi Fang. <i>2019 International Conference on 3D Vision (3DV)</i>.<br>
+<b>Xiang Li\*</b>, Lingjing Wang\*, Yi Fang. <i>2019 International Conference on 3D Vision (3DV)</i>.<br>
 [[PDF]](https://www.ijcai.org/proceedings/2019/0399.pdf)
 
 * <b>Cross-Safe: A computer vision-based approach to make all intersection-related pedestrian signals accessible for the visually impaired</b>. <br>
@@ -90,7 +90,7 @@ Lingjing Wang, Jianchun Chen, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0269749117307534)
 
 * <b>Dynamic monitoring of the largest freshwater lake in China using a new water index derived from high spatiotemporal resolution Sentinel-1A data</b>. <br>
-Haifeng Tian, Wang Li, Mingquan Wu, Ni Huang, Guodong Li, <b>Xiang Li</b>, Zheng Niu. <i>v, 2017</i>.<br>
+Haifeng Tian, Wang Li, Mingquan Wu, Ni Huang, Guodong Li, <b>Xiang Li</b>, Zheng Niu. <i>Remote Sensing, 2017</i>.<br>
 [[PDF]](https://www.mdpi.com/2072-4292/9/6/521)
 
 ---
