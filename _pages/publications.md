@@ -8,10 +8,6 @@ author_profile: true
 
 ---
 ## 2020
-
-* <b>Few-shot Learning of Part-specific Probability Space for 3D Shape Segmentation</b>. <br>
-Lingjing Wang*, <b>Xiang Li*</b>, Yi Fang. <i>CVPR 2020</i>.<br>
-
 * <b>Few-shot Segmentation of Remote Sensing Images</b>. <br>
 <b>Xiang Li</b>, Yi Fang. <i>under review</i>.<br>
 
@@ -22,11 +18,14 @@ Lingjing Wang*, <b>Xiang Li*</b>, Yi Fang. <i>CVPR 2020</i>.<br>
 * <b>Airborne LiDAR Point Cloud Classification with Graph Attention Convolution Neural Network</b>. <br>
 Congcong Wen, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>arxiv</i>.<br>
 
+* <b>Arbitrary Continuous Geometric TransformationNetworks for Image Registration</b>. <br>
+Lingjing Wang*, <b>Xiang Li*</b>, Hao Huang, Jianchun Chen, Yi Fang. <i>under review</i>.<br>
+
 * <b>Topology Constrained Shape Correspondence</b>. <br>
 <b>Xiang Li</b>, Congcong Wen, Lingjing Wang, Yi Fang. <i>IEEE Transactions on Visualization and Graphics, 2020</i>.<br>
 
-* <b>Arbitrary Continuous Geometric TransformationNetworks for Image Registration</b>. <br>
-Lingjing Wang*, <b>Xiang Li*</b>, Hao Huang, Jianchun Chen, Yi Fang. <i>under review</i>.<br>
+* <b>Few-shot Learning of Part-specific Probability Space for 3D Shape Segmentation</b>. <br>
+Lingjing Wang*, <b>Xiang Li*</b>, Yi Fang. <i>CVPR 2020</i>.<br>
 
 * <b>Directionally Constrained Fully Convolutional Neural Network For Airborne Lidar Point Cloud Classification</b>. <br>
 Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li (corresponding author)</b><i class="icon-envelope-square"></i>, Tianhe Chi. <i>ISPRS Journal of Photogrammetry and Remote Sensing, 2020</i>.<br> 
