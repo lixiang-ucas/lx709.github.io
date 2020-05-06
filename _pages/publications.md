@@ -57,7 +57,7 @@ Yuan Hu, <b>Xiang Li</b>, Nan Zhou, Lina Yang, Ling Peng, Sha Xiao. <i>IEEE Geos
 
 
 * <b>Arbicon-Net: Arbitrary Continuous Geometric Transformation Networks for Image Registration</b>. <br>
-Jianchun Chen, Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>Advances in Neural Information Processing Systems, NIPS 2019</i>.<br>
+Jianchun Chen, Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>Advances in Neural Information Processing Systems, NeurIPS 2019</i>.<br>
 [[PDF]](https://arxiv.org/abs/1908.06673)
 [[Code]](https://github.com/nyummvc/Arbicon-Net)
 
