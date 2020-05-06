@@ -8,6 +8,9 @@ author_profile: true
 
 ---
 ## 2020
+* <b>Height estimation from single aerial images using a deep ordinal regression network</b>. <br>
+<b>Xiang Li</b>, Yi Fang. <i>under review</i>.<br>
+
 * <b>Few-shot Segmentation of Remote Sensing Images</b>. <br>
 <b>Xiang Li</b>, Yi Fang. <i>under review</i>.<br>
 
