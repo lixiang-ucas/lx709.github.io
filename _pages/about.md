@@ -16,7 +16,7 @@ I am currently a Postdoc Associate at MMVC Lab, New York University Abu Dhabi. I
 
 
 # Research
-My research interests lie in 3D computer vision and pattern recognition, deep learning, remote sensing image recognition and smart city applications.
+My research interests lie in computer vision, deep learning, remote sensing image recognition and smart city applications.
 
 Education
 ======
