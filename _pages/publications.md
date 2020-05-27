@@ -21,7 +21,7 @@ Lingjing Wang*, <b>Xiang Li*</b>, Hao Huang, Jianchun Chen, Yi Fang. <i>under re
 Congcong Wen, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>arxiv</i>.<br>
 
 * <b>Density-Aware Convolutional Networks with Context Encoding for Airborne LiDAR Point Cloud Classification</b>. <br>
-<b>Xiang Li</b>, Mingyang Wang, Congcong Wen, Lingjing Wang, Nan Zhou, Yi Fang. <i>ISPRS Journal of Photogrammetry and Remote Sensing, 2020</i>.<br>
+<b>Xiang Li</b>, Lingjing Wang, Mingyang Wang, Congcong Wen, Nan Zhou, Yi Fang. <i>ISPRS Journal of Photogrammetry and Remote Sensing, 2020</i>.<br>
 [[PDF]](https://arxiv.org/abs/1910.05909)
 
 * <b>Topology Constrained Shape Correspondence</b>. <br>
