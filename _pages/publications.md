@@ -14,15 +14,15 @@ author_profile: true
 * <b>Few-shot Segmentation of Remote Sensing Images</b>. <br>
 <b>Xiang Li</b>, Yi Fang. <i>under review</i>.<br>
 
-* <b>Density-Aware Convolutional Networks with Context Encoding for Airborne LiDAR Point Cloud Classification</b>. <br>
-<b>Xiang Li</b>, Mingyang Wang, Congcong Wen, Lingjing Wang, Nan Zhou, Yi Fang. <i>arxiv</i>.<br>
-[[PDF]](https://arxiv.org/abs/1910.05909)
+* <b>Arbitrary Continuous Geometric TransformationNetworks for Image Registration</b>. <br>
+Lingjing Wang*, <b>Xiang Li*</b>, Hao Huang, Jianchun Chen, Yi Fang. <i>under review</i>.<br>
 
 * <b>Airborne LiDAR Point Cloud Classification with Graph Attention Convolution Neural Network</b>. <br>
 Congcong Wen, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>arxiv</i>.<br>
 
-* <b>Arbitrary Continuous Geometric TransformationNetworks for Image Registration</b>. <br>
-Lingjing Wang*, <b>Xiang Li*</b>, Hao Huang, Jianchun Chen, Yi Fang. <i>under review</i>.<br>
+* <b>Density-Aware Convolutional Networks with Context Encoding for Airborne LiDAR Point Cloud Classification</b>. <br>
+<b>Xiang Li</b>, Mingyang Wang, Congcong Wen, Lingjing Wang, Nan Zhou, Yi Fang. <i>ISPRS Journal of Photogrammetry and Remote Sensing, 2020</i>.<br>
+[[PDF]](https://arxiv.org/abs/1910.05909)
 
 * <b>Topology Constrained Shape Correspondence</b>. <br>
 <b>Xiang Li</b>, Congcong Wen, Lingjing Wang, Yi Fang. <i>IEEE Transactions on Visualization and Graphics, 2020</i>.<br>
