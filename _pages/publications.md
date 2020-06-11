@@ -26,6 +26,7 @@ Congcong Wen, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>arxiv</i>.<br>
 
 * <b>Topology Constrained Shape Correspondence</b>. <br>
 <b>Xiang Li</b>, Congcong Wen, Lingjing Wang, Yi Fang. <i>IEEE Transactions on Visualization and Graphics, 2020</i>.<br>
+[[PDF]](https://ieeexplore.ieee.org/document/9091324)
 
 * <b>Few-shot Learning of Part-specific Probability Space for 3D Shape Segmentation</b>. <br>
 Lingjing Wang*, <b>Xiang Li*</b>, Yi Fang. <i>CVPR 2020</i>.<br>
