@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-[English CV [PDF]](https://xiangli.ac.cn/files/cv/xiang_en.pdf)
+[English CV [PDF]](https://xiangli.ac.cn/files/xiang_en.pdf)
 
-[Chinese CV [PDF]](https://xiangli.ac.cn/files/cv/xiang_cn.pdf)
+[Chinese CV [PDF]](https://xiangli.ac.cn/files/xiang_cn.pdf)
 
 # Contact
 New York University, Abu Dhabi<br>
